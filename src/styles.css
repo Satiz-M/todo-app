@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.todo {
+  align-items: center;
+  justify-content: center;
+}
+.todo-input {
+  width: 25rem;
+  height: 1.5rem;
+  outline: none;
+}
+.todo-button {
+  margin-top: 1rem;
+  height: 1.9rem;
+  width: 8rem;
+}
+.complete {
+  text-decoration: line-through;
+}
